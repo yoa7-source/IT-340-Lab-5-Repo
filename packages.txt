@@ -1,8 +1,3 @@
-
-Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
-Err?=(none)/Reinst-required
-Name
-
 accountsservice
 acl
 adcli
